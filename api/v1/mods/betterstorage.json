@@ -19,6 +19,19 @@
       "definiteMaxRaftVersion": false,
       "createdAt": "2026-09-01T00:00:00.000Z",
       "updatedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "modId": "betterstorage",
+      "version": "1.1",
+      "changelog": "Fixed the cursor hover/highlight box not resizing along with upgraded storage slots, so it no longer looks mismatched after upgrading a chest.",
+      "downloadUrl": "https://voltacceptsprojects.github.io/BetterStorage/mods/betterstorage/1.1/BetterStorage.rmod",
+      "downloadCount": 0,
+      "minRaftVersionId": 31,
+      "maxRaftVersionId": 31,
+      "definiteMaxRaftVersion": false,
+      "createdAt": "2026-09-01T00:00:00.000Z",
+      "updatedAt": "2026-09-01T00:00:00.000Z"
     }
   ]
 }
