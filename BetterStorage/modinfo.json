@@ -1,0 +1,15 @@
+{
+  "name": "BetterStorage",
+  "slug": "betterstorage",
+  "author": "Voltaccept",
+  "description": "Expands the storage capabilities of Chests by adding an Upgradable Storage allowing for up to 56 Slots.",
+  "version": "2.1",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/betterstorage/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
